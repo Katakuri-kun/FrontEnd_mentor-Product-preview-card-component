@@ -70,11 +70,10 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
 }
-.products-holder .product .product-info h2 {
+.products-holder .product .product-info h1 {
     color: var(--font-color);
     text-transform: capitalize;
     font-family: 'Fraunces', serif;
-    font-size: 2em;
     font-weight: 700;
 }
 
